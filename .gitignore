@@ -1,2 +1,5 @@
 # Ignore built website
 public/
+
+# IGnore emacs files
+*~
